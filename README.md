@@ -6,7 +6,7 @@ No game engine used.
 
 Really cool explosion animation on dying and nice screen transitions.
 
-##### Screenshots: https://imgur.com/a/J9CIW
+##### Screenshots: https://imgur.com/a/RqEt0
 
 ### How to run:
 1. Clone repo
